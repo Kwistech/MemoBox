@@ -26,7 +26,7 @@ class App:
 
         date = datetime.now()
         month = convert_month(date.month)
-        path_open = "C:\\Users\John\Documents\GitHub\MemoBox"  # CHANGE PATH
+        path_open = "."
         path_memos = "./memos/{}/{}/".format(date.year, month)
 
         label_text = "Enter memo in box and press Write"
