@@ -36,5 +36,3 @@ Inside this file you will see ALL of your memos for that day.
 ![](http://s32.postimg.org/tsa99znw5/memobox_txt.png)
 
 *The user can press the 'Open' button to open the project's root directory in explorer.*
-
-**Note**: You have to change the variable 'path_open' in main.py (line 29) to your copy of the root directory for this to work!
