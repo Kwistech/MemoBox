@@ -1,6 +1,6 @@
 # MemoBox
 
-MemoBox is a desktop application that writes memos to a file that is named by date.
+MemoBox is a desktop application that writes memos to a file that is named by date. (Python 3.5)
 
 ## Installation
 
