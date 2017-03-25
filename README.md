@@ -12,11 +12,11 @@ From the program's root directory, run the following:
 
 `python main.py`
 
-##How to Use
+## How to Use
 
 The below image is the GUI for MemoBox:
 
-![](http://s32.postimg.org/s2vkacvxx/memobox_gui.png)
+[![memobox-gui.png](https://s11.postimg.org/3l8ypu2ar/memobox-gui.png)](https://postimg.org/image/qzgy1rk7z/)
 
 Steps:
 
@@ -29,10 +29,10 @@ In the project's root directory, the user will find a directory named 'memos' wh
 
 which contains the directory for the current month, which contains the file you have written to named as the current date.
 
-![](http://s32.postimg.org/mw4fgapbp/memobox_path.png)
+[![memobox-path.png](https://s18.postimg.org/rva4kuguh/memobox-path.png)](https://postimg.org/image/oofl17wed/)
 
 Inside this file you will see ALL of your memos for that day.
 
-![](http://s32.postimg.org/tsa99znw5/memobox_txt.png)
+[![memobox-txt.png](https://s8.postimg.org/79l74onk5/memobox-txt.png)](https://postimg.org/image/mib4igh8h/)
 
 *The user can press the 'Open' button to open the project's root directory in explorer.*
